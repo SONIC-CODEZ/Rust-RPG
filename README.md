@@ -10,7 +10,7 @@
 
 So,
 ```
-cargo new project_name`
+cargo new project_name
 cargo build
 cargo run file_name
 ```
