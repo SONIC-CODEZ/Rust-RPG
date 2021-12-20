@@ -1,7 +1,8 @@
 ## `Rust RPG`! Hello this is a *RUST RPG* created by arukovic! 
 
-> This is just a simple RPG created by purely *Rust*... feel free to run it!
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+
+> This is just a simple RPG created by purely *Rust*... feel free to run it!
 **Basics on how to run**
 > 1st create a project `cargo new project_name`
 > 2nd `cargo build`
