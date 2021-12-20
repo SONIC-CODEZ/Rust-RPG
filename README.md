@@ -9,7 +9,7 @@
 > 3rd `cargo run file_name`
 
 # IMPORTANT!
-**Make sure to firstly install [Microsoft C++ build tools](https://docs.microsoft.com/en-us/windows/dev-environment/rust/setup) then install [Rust](https://www.rust-lang.org/tools/install)
+**Make sure to firstly install [Microsoft C++ build tools](https://docs.microsoft.com/en-us/windows/dev-environment/rust/setup) then install [Rust](https://www.rust-lang.org/tools/install)**  
 
 So,
 ```
