@@ -8,6 +8,9 @@
 > 3rd go inside the `src` file and then navigate to `main.rs` delete all and paste the code.
 > 3rd `cargo run file_name`
 
+# IMPORTANT!
+**Make sure to firstly install [Microsoft C++ build tools](https://www.rust-lang.org/tools/install) then install [Rust](https://www.rust-lang.org/tools/install)
+
 So,
 ```
 cargo new project_name
